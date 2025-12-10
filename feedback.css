@@ -4,7 +4,10 @@ nav{
     background-color: #1c6805;
     text-align: center;
 }
-
+.pe1{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 nav a{
     text-decoration: none;
     color: white;
@@ -106,4 +109,5 @@ form p{
 }
 textarea{
     border-radius: 10px;
+
 }
